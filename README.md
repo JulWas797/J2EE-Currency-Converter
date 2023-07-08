@@ -1,4 +1,4 @@
-# Currency Converter
+# J2EE Currency Converter
 
 ![image](https://github.com/JulWas797/J2EE-Currency-Converter/assets/51297298/8a88fb6c-a173-4098-8b7a-8063b8187ce8)
 
