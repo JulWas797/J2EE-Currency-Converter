@@ -9,5 +9,5 @@ Very simple Currency Converter website made using Jakarta EE 8 as a throwaway fr
 **Allows user to convert Polish Złoty (PLN) into various currencies, based on National Bank of Poland API.**
 
 ## To-Do
-- [ ] **Unit Testing (High-Priority)**
+- [x] **Unit Testing (High-Priority)**
 - [ ] Implement diffrent API to allow converting between various currencies
